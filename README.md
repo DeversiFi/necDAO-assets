@@ -13,6 +13,9 @@ To learn more about the necDAO, and to participate, visit https://nectar.communi
 
 Please make a Pull Request to add new assets.
 
+This is an open initiative. If you are interested in becoming a maintainer of this
+repository on behalf of necDAO, please email ben@deversifi.com
+
 ## Colour Palettes
 
 1. Primary
